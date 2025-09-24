@@ -22,8 +22,6 @@ The landing page is implemented as per the design in [`Askme Identity.jpg`](Askm
 ├── index.html
 ├── images/
 │   └── ... (all image assets)
-├── .vscode/
-│   └── settings.json
 └── Askme Identity.jpg
 ```
 
