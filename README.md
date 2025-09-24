@@ -8,7 +8,7 @@ A responsive landing page built with **HTML** and **Tailwind CSS**, based on the
 
 ## 📸 Design Reference
 
-The landing page is implemented as per the design in [`Askme Identity.jpg`](Askme%20Identity.jpg).
+The landing page is implemented as per the design in [`Askme Identity.png`](Askme%20Identity.png).
 
 ## 🛠️ Tech Stack
 
