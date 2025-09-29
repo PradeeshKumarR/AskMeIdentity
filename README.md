@@ -36,7 +36,7 @@ The landing page is implemented as per the design in [`Askme Identity.png`](Askm
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/askmeidentity-landing.git
+   git clone https://github.com/PradeeshKumarR/AskMeIdentity.git
    cd askmeidentity-landing
    ```
 
